@@ -11,9 +11,9 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Java, C#, Dart**
+- 🌱 I’m currently working as an AI/ML Engineer(Intern) at SRI Lanka Tea Board**
 
-- 💬 Ask me about **Java, Dart**
+- 💬 Ask me about **Python, Java, Dart **
 
 - 📫 How to reach me **nisallakshan123@gmail.com**
 
