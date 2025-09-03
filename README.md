@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently working as an AI/ML Engineer(Intern) at SRI Lanka Tea Board**
+- 🌱 I’m currently working as an AI/ML Engineer(Intern) at SRI Lanka Tea Board
 
 - 💬 Ask me about **Python, Java, Dart **
 
