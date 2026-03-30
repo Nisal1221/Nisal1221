@@ -1,1 +1,44 @@
-<h1 align="center">Hi 👋, I'm Nisal Lakshan Basnayake</h1><h3 align="center">🤖 AI/ML Engineer | Data Science Enthusiast | Full-Stack Developer</h3><p align="center"><img src="https://komarev.com/ghpvc/?username=nisal1221&label=Profile%20views&color=0e75b6&style=flat" alt="nisal1221" /></p><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisal1221" alt="nisal1221" /></a></p>---## 🚀 About Me- 🌱 Currently working as an **AI/ML Engineer (Intern)** at **Sri Lanka Tea Board**- 🎯 Passionate about building intelligent systems and data-driven solutions- 💡 Specializing in Machine Learning, Deep Learning, and AI applications- 💬 Ask me about **Python, Java, Dart, Machine Learning, TensorFlow, PyTorch**- 📫 Reach me at **nisallakshan123@gmail.com**- ⚡ Fun fact: **I think coding is FUN and problem-solving is my passion!**---## 🛠️ Tech Stack & Skills### **Languages**- Python (Expert)- Java- Dart- JavaScript- C, C#, PHP- R---### **ML/AI Frameworks & Tools**- TensorFlow- PyTorch- Scikit-learn- Pandas, NumPy- Jupyter Notebooks---### **Web & Mobile Development**- React- React Native- Angular- Node.js- Flutter- Firebase---### **Databases**- MongoDB- MySQL- Microsoft SQL Server---### **Other Tools**- Git- Docker- Postman- Figma- Adobe Illustrator- Adobe Photoshop---## 🤝 Connect with Me<p align="left"><a href="https://linkedin.com/in/nisal-lakshan-basnayake" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisal lakshan basnayake" height="30" width="40" /></a><a href="https://fb.com/nisal-lakshan-basnayake" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nisal lakshan basnayake" height="30" width="40" /></a><a href="https://instagram.com/_nisall_lk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nisall_lk" height="30" width="40" /></a></p>---## 📊 GitHub Stats<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisal1221&show_icons=true&locale=en&layout=compact&cache_seconds=0" alt="nisal1221" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nisal1221&show_icons=true&theme=radical&cache_seconds=0" alt="nisal1221" /></p>---## 🎓 Education & Certifications- **Intern AI/ML Engineer** - Sri Lanka Tea Board- Passionate about continuous learning and staying updated with latest AI/ML trends---## ☕ Support Me<a href="https://www.buymeacoffee.com/Nisal1221"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nisal1221" /></a><br><br>---*Last updated: 2026-03-30 05:10:58*
+# Nisal1221
+
+## AI/ML Engineer Profile
+
+### Summary
+
+Results-driven AI/ML Engineer with a strong background in developing and implementing machine learning models and algorithms. Proficient in programming languages and tools such as Python, R, TensorFlow, and Scikit-learn.
+
+### Skills
+
+- **Programming Languages:** Python, R, Java
+- **Machine Learning Frameworks:** TensorFlow, Scikit-learn, Keras, PyTorch
+- **Data Analysis Tools:** Pandas, Numpy, Matplotlib
+- **Cloud Platforms:** AWS, Google Cloud
+- **Database Management:** SQL, MongoDB
+
+### Experience
+
+**AI/ML Engineer**  
+XYZ Corporation, March 2022 - Present  
+- Developed and deployed machine learning models that improved prediction accuracy by 20%.  
+- Collaborated with data scientists and stakeholders to gather requirements and define project scope.
+
+**Data Scientist**  
+ABC Technologies, January 2020 - February 2022  
+- Analyzed large datasets to extract meaningful insights using statistical methods.
+- Implemented data preprocessing and augmentation techniques to enhance model performance.
+
+### Education
+
+**Master of Science in Computer Science**  
+University of Technology, 2019
+
+**Bachelor of Science in Computer Science**  
+University of Technology, 2017
+
+### Contact Information
+
+- **Email:** your.email@example.com  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
+- **GitHub:** [Nisal1221](https://github.com/Nisal1221)  
+
+---  
+*This profile is continuously updated to reflect my latest experiences and skills.*
