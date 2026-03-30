@@ -1,22 +1,42 @@
-# AI/ML Engineer Profile
+# Nisal1221 - AI/ML Engineer
 
-## About Me
-I am an AI/ML engineer focused on leveraging cutting-edge technologies to solve real-world problems and improve efficiency across various domains. My work encompasses data analysis, model development, and deployment, with a strong emphasis on performance optimization and scalability.
+## Profile
+
+A dedicated AI/ML engineer with a passion for building innovative solutions using machine learning and artificial intelligence. I am committed to continuous learning and staying up to date with the latest trends in AI/ML technologies.
 
 ## Skills
-- Machine Learning
-- Deep Learning
-- Data Analysis
-- Python, R, SQL
-- TensorFlow, PyTorch
-- Data Visualization
+- **Programming Languages**: Python, R, Java
+- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn
+- **Tools & Technologies**: Docker, Kubernetes, Git, Jupyter Notebooks
+- **Cloud Platforms**: AWS, Google Cloud, Azure
 
 ## Projects
-- **Project 1:** Description of project 1...
-- **Project 2:** Description of project 2...
+### 1. Predictive Analytics Tool
+Developed a predictive analytics tool that forecasts sales trends based on historical data, resulting in a 20% increase in sales efficiency.
 
-## Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nisal1221&show_icons=true&cache_seconds=3600&theme=radical)
+### 2. Image Recognition System
+Designed and implemented an image recognition system using convolutional neural networks, achieving over 90% accuracy.
+
+## Education
+- **Bachelor of Technology in Computer Science**  
+  XYZ University, 2023
+
+## Certifications
+- **Machine Learning by Stanford University**  
+  Coursera, 2023
+- **Deep Learning Specialization by Andrew Ng**  
+  Coursera, 2023
 
 ## Contact
-Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/your-linkedin) or [Twitter](https://twitter.com/your-twitter).
+- Email: nisal1221@gmail.com  
+- LinkedIn: [Nisal1221](https://www.linkedin.com/in/nisal1221)  
+
+---
+
+### Language Cards
+
+| Language    | Proficiency  |
+|-------------|--------------|
+| Python      | ⭐⭐⭐⭐⭐       |
+| R           | ⭐⭐⭐⭐        |
+| Java        | ⭐⭐⭐         |
