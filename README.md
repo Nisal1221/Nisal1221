@@ -8,12 +8,13 @@
 
 I’m an AI/ML Engineer with a strong foundation in Natural Language Processing, Deep Learning, and scalable AI system development.
 
-🎓 BSc (Hons) Software Engineering – Second Class Upper (University of Plymouth via NSBM)
-🤖 Specialized in NLP, Computer Vision & AI-powered applications
-🏢 Former AI/ML Engineer Intern @ Sri Lanka Tea Board
-🚀 Built production-ready AI systems using FastAPI, Docker & ML pipelines
-📊 Passionate about LLMs, NL2SQL systems, and real-world AI deployment
-🌱 Currently exploring MLOps & scalable AI architectures
+-🎓 BSc (Hons) Software Engineering – Second Class Upper (University of Plymouth via NSBM)
+-🤖 Specialized in NLP, Computer Vision & AI-powered applications
+-🏢 Former AI/ML Engineer Intern @ Sri Lanka Tea Board
+-🚀 Built production-ready AI systems using FastAPI, Docker & ML pipelines
+-📊 Passionate about LLMs, NL2SQL systems, and real-world AI deployment
+=🌱 Currently exploring MLOps & scalable AI architectures
+
 ## ⚙️ Tech Stack
 
 ### 👨‍💻 Programming Languages
