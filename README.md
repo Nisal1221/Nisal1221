@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | Data Science Enthusiast | Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Nisal1221&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ## 🧠 About Me
