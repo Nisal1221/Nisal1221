@@ -35,7 +35,17 @@ I’m an AI/ML Engineer with a strong foundation in Natural Language Processing,
   
 ### 🌐 Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,docker,SQLAlchemy,pandas,numpy,ploty,dash,matplotlib,gradio" />
+  <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,docker" />
+</p>
+
+### 📊 Data & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge"/>
 </p>
 
 ### 🛠️ Development Tools
