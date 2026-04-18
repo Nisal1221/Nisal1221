@@ -4,43 +4,66 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-### Summary
+## 🧠 About Me
 
-Results-driven AI/ML Engineer with a strong background in developing and implementing machine learning models and algorithms. Proficient in programming languages and tools such as Python, R, TensorFlow, and Scikit-learn.
+- 🎓 BSc (Hons) in Software Engineering  
+- 🤖 Passionate about **AI/ML, NLP, and Computer Vision**
+- 🔍 Currently working on **Sinhala Hate Speech Detection (Text + Images)**
+- 🚀 Building real-world AI solutions with **FastAPI & Deep Learning**
+- 📊 Interested in **Data Science, LLMs, and AI Systems Design**
+- 🌱 Currently learning: **Advanced Deep Learning & MLOps**
+## ⚙️ Tech Stack
 
-### Skills
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
 
-- **Programming Languages:** Python, R, Java
-- **Machine Learning Frameworks:** TensorFlow, Scikit-learn, Keras, PyTorch
-- **Data Analysis Tools:** Pandas, Numpy, Matplotlib
-- **Cloud Platforms:** AWS, Google Cloud
-- **Database Management:** SQL, MongoDB
+### 🧠 AI/ML & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
-### Experience
+### 🌐 Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,docker" />
+</p>
 
-**AI/ML Engineer**  
-XYZ Corporation, March 2022 - Present  
-- Developed and deployed machine learning models that improved prediction accuracy by 20%.  
-- Collaborated with data scientists and stakeholders to gather requirements and define project scope.
+### 🛠️ Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
-**Data Scientist**  
-ABC Technologies, January 2020 - February 2022  
-- Analyzed large datasets to extract meaningful insights using statistical methods.
-- Implemented data preprocessing and augmentation techniques to enhance model performance.
+## 📊 GitHub Stats
 
-### Education
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+## 📈 Most Used Languages
 
-**Master of Science in Computer Science**  
-University of Technology, 2019
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+## 🚀 Featured Projects
 
-**Bachelor of Science in Computer Science**  
-University of Technology, 2017
+- 🔍 **Sinhala Hate Speech Detector**
+  - NLP + Computer Vision system
+  - Detects hate speech in text & images
+  - Built with FastAPI + Deep Learning
 
-### Contact Information
+- 📄 **PDF Table Extraction System**
+  - Extracts tables from any PDF format
+  - Outputs structured CSV data
 
-- **Email:** your.email@example.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-- **GitHub:** [Nisal1221](https://github.com/Nisal1221)  
+- 🤖 **AI Chatbot System**
+  - Integrated NLP-based chatbot
+  - Scalable backend architecture
 
----  
-*This profile is continuously updated to reflect my latest experiences and skills.*
+## 🌐 Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> |
+  <a href="mailto:YOUR_EMAIL">Email</a> |
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+</p>
