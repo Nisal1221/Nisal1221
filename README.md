@@ -1,7 +1,9 @@
-# Nisal1221
+<h1 align="center">Hi 👋, I'm Nisal</h1>
+<h3 align="center">AI/ML Engineer | Data Science Enthusiast | Building Intelligent Systems</h3>
 
-## AI/ML Engineer Profile
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 ### Summary
 
 Results-driven AI/ML Engineer with a strong background in developing and implementing machine learning models and algorithms. Proficient in programming languages and tools such as Python, R, TensorFlow, and Scikit-learn.
