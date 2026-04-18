@@ -28,6 +28,11 @@ I’m an AI/ML Engineer with a strong foundation in Natural Language Processing,
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Model Deployment
+  
 ### 🌐 Frameworks & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,docker" />
