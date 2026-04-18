@@ -64,25 +64,35 @@ I’m an AI/ML Engineer with a strong foundation in Natural Language Processing,
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal1221&layout=compact&theme=tokyonight" />
 </p>
+
 ## 🚀 Featured Projects
 
 - 🔍 **Sinhala Hate Speech Detector**
-  - NLP + Computer Vision system
-  - Detects hate speech in text & images
-  - Built with FastAPI + Deep Learning
-
+  - NLP + Computer Vision system for text & image-based text hate speech detection
+  - Built **HariWachana Model** using XLM-RoBERTa as the base model.
+  - Achieved 95.6% token accuracy & 86% F1-score
+  - Deployed via FastAPI + MongoDB + React
+    
+- 🤖 **NL2SQL AI Chatbot** (Sri Lanka Tea Board)
+  - Converts natural language → SQL queries → visual insights
+  - Built using FastAPI, Pandas, SQLAlchemy
+  - Generates dynamic data visualizations (Plotly)
+  - Dockerized and deployed on local infrastructure
+  
 - 📄 **PDF Table Extraction System**
-  - Extracts tables from any PDF format
-  - Outputs structured CSV data
+  - Extracts structured tables from any PDF format
+  - Outputs clean CSV datasets
+  - Built with pdfplumber + Pandas + Gradio UI
 
-- 🤖 **AI Chatbot System**
-  - Integrated NLP-based chatbot
-  - Scalable backend architecture
+- 🌐 **HariWachana.lk** (AI Web Platform)
+  - Full-stack Sinhala platform for toxic content detection
+  - Built with MERN stack
+  - Includes authentication + AI-powered analysis
 
 ## 🌐 Let's Connect
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> |
-  <a href="mailto:YOUR_EMAIL">Email</a> |
+  <a href="https://linkedin.com/in/nisal-lakshan-basnayake-a34a65332">LinkedIn</a> |
+  <a href="mailto:nisallakshan123@gmail.com">Email</a> |
   <a href="https://github.com/Nisal1221">GitHub</a>
 </p>
