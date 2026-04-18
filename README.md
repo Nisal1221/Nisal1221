@@ -56,13 +56,13 @@ I’m an AI/ML Engineer with a strong foundation in Natural Language Processing,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nisal1221&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisal1221&theme=tokyonight" />
 </p>
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal1221&layout=compact&theme=tokyonight" />
 </p>
 ## 🚀 Featured Projects
 
@@ -84,5 +84,5 @@ I’m an AI/ML Engineer with a strong foundation in Natural Language Processing,
 <p>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> |
   <a href="mailto:YOUR_EMAIL">Email</a> |
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  <a href="https://github.com/Nisal1221">GitHub</a>
 </p>
