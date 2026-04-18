@@ -35,7 +35,7 @@ I’m an AI/ML Engineer with a strong foundation in Natural Language Processing,
   
 ### 🌐 Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,docker" />
+  <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,docker,SQLAlchemy,pandas,numpy,ploty,dash,matplotlib,gradio" />
 </p>
 
 ### 🛠️ Development Tools
